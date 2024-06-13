@@ -1,0 +1,20 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Plan de mejoramiento",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon app/index.js --exec babel-node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delanyroman04/plan-mejora1.git"
+  },
+  "author": "Delany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delanyroman04/plan-mejora1.git/issues"
+  },
+  "homepage": "https://github.com/delanyroman04/plan-mejora1.git#readme"
+}
